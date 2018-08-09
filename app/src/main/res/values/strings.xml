@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kalkulator Feby</string>
+    <string name="button_text">Tombol</string>
+    <string name="clicked">CLICKED</string>
+
+    <string-array name="list_kota">
+        <item>Malang</item>
+        <item>Semarang</item>
+        <item>Jember</item>
+        <item>Jakarta</item>
+        <item>Solo</item>
+    </string-array>
+</resources>
